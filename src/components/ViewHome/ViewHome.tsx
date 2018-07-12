@@ -13,15 +13,15 @@ export default class ViewHome extends React.Component<ViewHomeProperties, any> {
         <div className="row">
           <div className="jumbotron col">
             <h3>Home Sweet Home</h3>
-            <p>Yeah, baby</p>
+            <p>We hope you like this demo.</p>
           </div>
         </div>
         <div className="row">
           <div className="col">
-            Wahat's up
+            <h3>React will make you stronger</h3>
           </div>
           <div className="col">
-            Yes Maam
+            <h3>React skills will boost your social status</h3>
           </div>
         </div>
       </div>
